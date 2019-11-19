@@ -2,9 +2,9 @@
 Linear regression, logistic regression, SVM, neural networks, spam classifier, pca, k-means clustering
 
 ## Technologies
-Repo is created with
-Python              3.5.4
-matplotlib          2.0.2    
+Repo is created with:  
+Python              3.5.4  
+matplotlib          2.0.2      
 numpy               1.11.3   
 pandas              0.20.3     
 Pillow              4.2.1    
